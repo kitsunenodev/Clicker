@@ -1,0 +1,2819 @@
+fileFormatVersion: 2
+guid: 74e87a7077ceb384e85f96ffcbfdbf5f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4904
+        width: 310
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2630d3683c8ed47bd37c76777de026
+      internalID: 1764366827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 4904
+        width: 286
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6161616239aea8d49bf53bf3703a7239
+      internalID: -847446825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 4904
+        width: 301
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec7e44c38a180c4fba2536c4b54fa95
+      internalID: 1440406005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4883
+        width: 286
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36056c433b38d35489f7f58723d3563f
+      internalID: -1783710914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 4870
+        width: 286
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6989aba6d7be249b0dbf9dfa26f808
+      internalID: -435888650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 4883
+        width: 286
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e6075a34287c14baf9a3cbac86d048
+      internalID: -92333350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4924
+        width: 360
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc77d1c1209c557438226850b79c702c
+      internalID: -95173241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 4927
+        width: 360
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a9296c60e0bd49b09e711cc0fc3b5
+      internalID: 10280586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 4930
+        width: 360
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3688619be11873a46bd280b3d582052b
+      internalID: -1222045558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 4930
+        width: 361
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4cad37aff5e9e40b2f6d145348e110
+      internalID: -1224079331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 4889
+        y: 4930
+        width: 357
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2948bfa0868e4cb1ad44bd31ceeb7
+      internalID: -1664917167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4489
+        width: 286
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa993175add2af149a55d3d15b5d996d
+      internalID: -1658141079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 4489
+        width: 322
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606353fd3a1351408f3a3e3c904420e
+      internalID: 1409242893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 4489
+        width: 345
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb2d4926fcf99e4fa9b50a1bfa33a5f
+      internalID: 365002987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 4463
+        width: 337
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180495511a4488c41a7e9166fdf16a70
+      internalID: 345351718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 4469
+        width: 335
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238bca0e5abb2ce4c9743bf62a6b3f72
+      internalID: -1668772015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 4469
+        width: 338
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c5cc53558ff94aaa0fd794cbee383
+      internalID: 1646246910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 4422
+        width: 240
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02d7d9cf5a7bd45a25d5703ebca3f7
+      internalID: 230486140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 4417
+        width: 240
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01dc6e0efad7c48b9b6a90b404ba69
+      internalID: -1942823184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 4430
+        width: 242
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70bbbc4fba54394999298a8c34fda80
+      internalID: -2016601097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 4425
+        width: 242
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff6083bac7442043a81ef24c28d7aba
+      internalID: -582841133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 4948
+        y: 4425
+        width: 243
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de6f4204e864e4ea5b1b1eea57fe91
+      internalID: -541436025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4115
+        width: 299
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8073f44ec9b81543ba92a3e33e146cb
+      internalID: -893612715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 4115
+        width: 306
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1918e83732b48e54eb5f4379654d7892
+      internalID: 1954575918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 4115
+        width: 309
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71321967939b8f4439b5e89de5f4ec9e
+      internalID: 168827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 4097
+        width: 281
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9128c7dd2285531488edfacc629af26c
+      internalID: -926188367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 4097
+        width: 281
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8da8f4dab96245b46b48930d57a45
+      internalID: 2061582303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 4097
+        width: 281
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d24973e036a1404bb6571fb40a7a744
+      internalID: -1924115996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 3948
+        width: 224
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd816cc083a01184eb5627d3826ce8fd
+      internalID: -916644673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 3953
+        width: 225
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8459b1326e244fd4f9f6c02afce1575c
+      internalID: 2133533978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 3961
+        width: 224
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af14add74637d1443ad1b8e1a6d34443
+      internalID: 449952179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 3969
+        width: 224
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65374ba23f41cb84ca65edb8eb7a5018
+      internalID: -1028523361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 3726
+        width: 321
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167d67a7e83c4f24e8b81949759bd37a
+      internalID: 159639586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3679
+        width: 336
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a5706d863106c4e8a0c34836ddb6f4
+      internalID: 91856799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 3679
+        width: 387
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b710b4463d78645469cf4e6419a08eb9
+      internalID: -121579661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3678
+        width: 373
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257b82992f06830439379a3b29bbf6e4
+      internalID: -2003830915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3659
+        width: 286
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea88dcd569395c84e97a1bd404457ee1
+      internalID: 796410374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 3659
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a2f1de68d2e7841865cac25395ffd5
+      internalID: -859637189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 3659
+        width: 286
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f6216a53b3a0640886885bb7e8544b
+      internalID: 335703494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3281
+        width: 309
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aebae4ffcc8a764aa52b7ccce3d259a
+      internalID: -1465124612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3281
+        width: 308
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd9a33cbde1ddf45a429f0d7239c3f6
+      internalID: -57857391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 3281
+        width: 307
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9130a38936f3b40bfb68346fa418ef
+      internalID: -1889925075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3260
+        width: 311
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f71c94a18a49a4cafe6181c43aa4bc
+      internalID: 824312246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3260
+        width: 312
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68fa86387f246f499bac1af1005488b
+      internalID: -1482668971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 3260
+        width: 312
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f240003ab0fe5c04a8bb41e4d5d08e66
+      internalID: 456362503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 3270
+        width: 342
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b805b2a8195144fa827b222f017615
+      internalID: -1717083485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 3265
+        width: 342
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42170ade041eb5e438e30e4ac26cbe3b
+      internalID: -231803657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 3270
+        width: 343
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b5917c1e4883a4b8d96d6e7aa031b0
+      internalID: -1950446530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 4443
+        y: 3271
+        width: 340
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63624bbfa0fa145a70680efc2ffb52
+      internalID: -1469518027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 3273
+        width: 342
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f34a544a7a86499259863c116e19a
+      internalID: 1125762215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2395
+        width: 322
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92038a4059534534e80270af1eefcb6f
+      internalID: 1657526487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2395
+        width: 327
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a4b47721e52845958bb1988f89a39
+      internalID: -1632265142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2387
+        width: 415
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37393dcbf20543841b0d42270a54778c
+      internalID: 278006965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 2351
+        width: 474
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de10994d5cf834b9391e74aac5e66c
+      internalID: -1452951369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 2330
+        width: 328
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ff7900eacd2f4b91f1afb47be16dc
+      internalID: 1963500876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 2510
+        width: 221
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb4effe9352dfa48bbfdfa96172d680
+      internalID: -1172289330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 2523
+        width: 222
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c490d2808f0e94384ac45816c5ed00
+      internalID: 1047266664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 2531
+        width: 221
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94ae6f8d0b4084408e0ffb76a75812a
+      internalID: 1521391377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 2536
+        width: 222
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863be7504fc8414d9f7a0cae11ecb16
+      internalID: -736229499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 2539
+        width: 222
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1434f1c40569e840b4da5b55d069562
+      internalID: -968751165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1897
+        width: 235
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a1667c22fe9a74d88f06cd40cca241
+      internalID: 148905733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1897
+        width: 297
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6b8c5154aa4b842b8d047fd72d756e
+      internalID: 569922415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1897
+        width: 324
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd0aedaa251585458c683f62e6cfeb3
+      internalID: 2068668297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1918
+        width: 350
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cba6cf09907cb549b39f10e5712b0a8
+      internalID: 1722203777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1856
+        width: 541
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99787e30e8ee98b41b0d74d6aaf39951
+      internalID: 686744780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 1946
+        width: 191
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde6a7856412ae541907dde97f1ac955
+      internalID: 393459488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1944
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33744188a2b9f245b1554dac2a2b887
+      internalID: 164105483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 1936
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4050b4ec121ff441a999a183c030480
+      internalID: -604810248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 1933
+        width: 191
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e46fcd6f5c237468b260106f86dee7
+      internalID: -82810537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 1933
+        width: 193
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec3a3c460021ee429e1adee5accc2e4
+      internalID: 1803773687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1094
+        width: 322
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3520b37a321a184c9de9677155f7022
+      internalID: -223716373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1065
+        width: 260
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c54e9fad1b4c4b82f2df961c4ca53
+      internalID: 1202951930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1065
+        width: 414
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf546e2b84f3fe4cbb4b2a0dfce1bb7
+      internalID: -1101293695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 712
+        width: 235
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1841a3f6cfb1444cad947c439a4d382
+      internalID: 1147930011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1086
+        width: 219
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de4bc1c6ece4a94299457f3d59a6f35
+      internalID: -283131819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1086
+        width: 324
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975c4ae01fa4af44a5f8dc0b34dbe33
+      internalID: 712388251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1076
+        width: 237
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f95f99b7146c54dafc032f652a9747
+      internalID: 485089807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 1096
+        width: 339
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddd68c465005a849bba400bf41b055d
+      internalID: -755163363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 1109
+        width: 325
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b578d0fcc7d0a8649ad4c92aa71b4449
+      internalID: 1627841324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 4673
+        y: 1102
+        width: 190
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400a44e9d1814d148b3410788484a2ce
+      internalID: 1946844033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 751
+        width: 245
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049629c2cf0ba24ea10b7c8f2f1b9a5
+      internalID: -1286639949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 741
+        width: 293
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67499c0b04b33e4d8eb07183fc76530
+      internalID: 1858798002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 738
+        width: 137
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97e601da86f28a45b85a5347892d1d9
+      internalID: 1058968024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 733
+        width: 137
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1709444b778a97b4196766d09e5eac0c
+      internalID: -2071147938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 710
+        width: 242
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553fb3d23f321754d96f9d217a341620
+      internalID: 1728011484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 736
+        width: 206
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577863cd8f8225f4494ea40c50c0c4fb
+      internalID: 1350306024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 725
+        width: 245
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75efa8366758d1a43a101ccf434c3fe4
+      internalID: 1823687462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 689
+        width: 206
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1680d747fcf8d459121c4861a2c226
+      internalID: -150676571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 705
+        width: 206
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9c022eea6e28459857522ba031ddf
+      internalID: 1070524469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 669
+        width: 201
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f60ea2a39e8b4690c9afc48002d91
+      internalID: 1906447822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 586
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe30083a3625d7041849514cbb11b7f2
+      internalID: -1302302346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 589
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fa8fad2196b0f49ba767b07834a9f6
+      internalID: -285178856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 470
+        width: 77
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d1a388b32d45246989d489cde67ab0
+      internalID: 612539903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 470
+        width: 75
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3faf6854055d3644be9eaf1fa6eac2a
+      internalID: 668267501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 591
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1fada63e00bca4d8cd3845d6aa45e7
+      internalID: -1156628452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 599
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d45789e81dc943956df323e25807e
+      internalID: -639612877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 517
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ae91bacdeb98f43bf352f7e6b40fd9
+      internalID: -936377827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 517
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d397654b71c2d245822a8755631608d
+      internalID: -1857270905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 584
+        width: 149
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d963b87b5045847a94615584e08d4c
+      internalID: 1178778840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 581
+        width: 149
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde83cbf6b23354dac98456d8b545c4
+      internalID: -1549122107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 480
+        width: 78
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d7ec19c0542f248908f1b30ccd1454
+      internalID: -1029950954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 480
+        width: 75
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20efa6e944d5fd41b9215ec387a9228
+      internalID: -1634737339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 496
+        width: 80
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369801ed8c123a14cbc209d6bc7ab142
+      internalID: -1584318088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 488
+        width: 80
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf92e4888710cd40a359bed1464c3e4
+      internalID: 415956338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 318
+        width: 226
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e79cb26912a247a76abfa1efb7adb
+      internalID: 186171637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 318
+        width: 227
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f5543b3b800c940a9eee360370a473
+      internalID: -1301865477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 470
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d40fc772cdd834c9159ae69f52640d
+      internalID: 1305794416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 496
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb52b15cc9ec5489f8c8e5357afcbe
+      internalID: 1358962872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 494
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d28ffb4343155a49b06e02a0fd853f9
+      internalID: 1978498619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 180
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94267e659d62684f8578cb62b945dd7
+      internalID: -749275813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 416
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12053d8d800f754196c3d06319f50a5
+      internalID: -1908611489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 305
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a701dd6412f72428ba1190798f580c
+      internalID: -840142318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 305
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeeaed82eec27b4d8c1c4de71c04d7b
+      internalID: 1416751410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 329
+        width: 139
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5affb1be323b7b94abd34e4128cb28db
+      internalID: -713771934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 326
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a52df234dd75bd44b40aa568e81c833
+      internalID: -1301001815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 318
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aaf1c2f12d1ea46b93fb1f522ee198
+      internalID: -563879710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 318
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb6f943b74f51044830de017814ce2a
+      internalID: -523709716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 380
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a752cc9296a3145907407b849654a5
+      internalID: -1620351353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 300
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd338190fbd83841b7aaede76f1ab8e
+      internalID: -1923016170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 300
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5560060d4fdf474a9e9a9a271d04326
+      internalID: -1905676388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 4727
+        y: 151
+        width: 131
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e52206b09bdff64e9043b6e4532b40d
+      internalID: 1686049666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlatClickerRpg_Kit_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 4711
+        y: 0
+        width: 116
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308cd6662a9673942b6fc0334b88f13e
+      internalID: -1908272925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FlatClickerRpg_Kit_SpriteSheet_7: 10280586
+      FlatClickerRpg_Kit_SpriteSheet_25: -926188367
+      FlatClickerRpg_Kit_SpriteSheet_67: -604810248
+      FlatClickerRpg_Kit_SpriteSheet_41: -1889925075
+      FlatClickerRpg_Kit_SpriteSheet_79: 1946844033
+      FlatClickerRpg_Kit_SpriteSheet_36: 796410374
+      FlatClickerRpg_Kit_SpriteSheet_116: -523709716
+      FlatClickerRpg_Kit_SpriteSheet_18: -1942823184
+      FlatClickerRpg_Kit_SpriteSheet_92: 612539903
+      FlatClickerRpg_Kit_SpriteSheet_0: 1764366827
+      FlatClickerRpg_Kit_SpriteSheet_114: -1301001815
+      FlatClickerRpg_Kit_SpriteSheet_23: 1954575918
+      FlatClickerRpg_Kit_SpriteSheet_91: -285178856
+      FlatClickerRpg_Kit_SpriteSheet_53: -1452951369
+      FlatClickerRpg_Kit_SpriteSheet_37: -859637189
+      FlatClickerRpg_Kit_SpriteSheet_49: 1125762215
+      FlatClickerRpg_Kit_SpriteSheet_118: -1923016170
+      FlatClickerRpg_Kit_SpriteSheet_58: -736229499
+      FlatClickerRpg_Kit_SpriteSheet_71: 1202951930
+      FlatClickerRpg_Kit_SpriteSheet_9: -1224079331
+      FlatClickerRpg_Kit_SpriteSheet_81: 1858798002
+      FlatClickerRpg_Kit_SpriteSheet_31: -1028523361
+      FlatClickerRpg_Kit_SpriteSheet_105: -1301865477
+      FlatClickerRpg_Kit_SpriteSheet_100: -1029950954
+      FlatClickerRpg_Kit_SpriteSheet_113: -713771934
+      FlatClickerRpg_Kit_SpriteSheet_99: -1549122107
+      FlatClickerRpg_Kit_SpriteSheet_5: -92333350
+      FlatClickerRpg_Kit_SpriteSheet_69: 1803773687
+      FlatClickerRpg_Kit_SpriteSheet_73: 1147930011
+      FlatClickerRpg_Kit_SpriteSheet_27: -1924115996
+      FlatClickerRpg_Kit_SpriteSheet_12: 1409242893
+      FlatClickerRpg_Kit_SpriteSheet_80: -1286639949
+      FlatClickerRpg_Kit_SpriteSheet_60: 148905733
+      FlatClickerRpg_Kit_SpriteSheet_1: -847446825
+      FlatClickerRpg_Kit_SpriteSheet_32: 159639586
+      FlatClickerRpg_Kit_SpriteSheet_17: 230486140
+      FlatClickerRpg_Kit_SpriteSheet_104: 186171637
+      FlatClickerRpg_Kit_SpriteSheet_94: -1156628452
+      FlatClickerRpg_Kit_SpriteSheet_107: 1358962872
+      FlatClickerRpg_Kit_SpriteSheet_24: 168827
+      FlatClickerRpg_Kit_SpriteSheet_76: 485089807
+      FlatClickerRpg_Kit_SpriteSheet_112: 1416751410
+      FlatClickerRpg_Kit_SpriteSheet_40: -57857391
+      FlatClickerRpg_Kit_SpriteSheet_14: 345351718
+      FlatClickerRpg_Kit_SpriteSheet_89: 1906447822
+      FlatClickerRpg_Kit_SpriteSheet_72: -1101293695
+      FlatClickerRpg_Kit_SpriteSheet_64: 686744780
+      FlatClickerRpg_Kit_SpriteSheet_109: -749275813
+      FlatClickerRpg_Kit_SpriteSheet_63: 1722203777
+      FlatClickerRpg_Kit_SpriteSheet_106: 1305794416
+      FlatClickerRpg_Kit_SpriteSheet_117: -1620351353
+      FlatClickerRpg_Kit_SpriteSheet_6: -95173241
+      FlatClickerRpg_Kit_SpriteSheet_84: 1728011484
+      FlatClickerRpg_Kit_SpriteSheet_3: -1783710914
+      FlatClickerRpg_Kit_SpriteSheet_96: -936377827
+      FlatClickerRpg_Kit_SpriteSheet_38: 335703494
+      FlatClickerRpg_Kit_SpriteSheet_46: -231803657
+      FlatClickerRpg_Kit_SpriteSheet_47: -1950446530
+      FlatClickerRpg_Kit_SpriteSheet_65: 393459488
+      FlatClickerRpg_Kit_SpriteSheet_86: 1823687462
+      FlatClickerRpg_Kit_SpriteSheet_8: -1222045558
+      FlatClickerRpg_Kit_SpriteSheet_45: -1717083485
+      FlatClickerRpg_Kit_SpriteSheet_108: 1978498619
+      FlatClickerRpg_Kit_SpriteSheet_19: -2016601097
+      FlatClickerRpg_Kit_SpriteSheet_110: -1908611489
+      FlatClickerRpg_Kit_SpriteSheet_13: 365002987
+      FlatClickerRpg_Kit_SpriteSheet_57: 1521391377
+      FlatClickerRpg_Kit_SpriteSheet_88: 1070524469
+      FlatClickerRpg_Kit_SpriteSheet_115: -563879710
+      FlatClickerRpg_Kit_SpriteSheet_82: 1058968024
+      FlatClickerRpg_Kit_SpriteSheet_11: -1658141079
+      FlatClickerRpg_Kit_SpriteSheet_59: -968751165
+      FlatClickerRpg_Kit_SpriteSheet_103: 415956338
+      FlatClickerRpg_Kit_SpriteSheet_16: 1646246910
+      FlatClickerRpg_Kit_SpriteSheet_85: 1350306024
+      FlatClickerRpg_Kit_SpriteSheet_66: 164105483
+      FlatClickerRpg_Kit_SpriteSheet_44: 456362503
+      FlatClickerRpg_Kit_SpriteSheet_48: -1469518027
+      FlatClickerRpg_Kit_SpriteSheet_2: 1440406005
+      FlatClickerRpg_Kit_SpriteSheet_111: -840142318
+      FlatClickerRpg_Kit_SpriteSheet_52: 278006965
+      FlatClickerRpg_Kit_SpriteSheet_61: 569922415
+      FlatClickerRpg_Kit_SpriteSheet_33: 91856799
+      FlatClickerRpg_Kit_SpriteSheet_10: -1664917167
+      FlatClickerRpg_Kit_SpriteSheet_119: -1905676388
+      FlatClickerRpg_Kit_SpriteSheet_62: 2068668297
+      FlatClickerRpg_Kit_SpriteSheet_50: 1657526487
+      FlatClickerRpg_Kit_SpriteSheet_15: -1668772015
+      FlatClickerRpg_Kit_SpriteSheet_42: 824312246
+      FlatClickerRpg_Kit_SpriteSheet_39: -1465124612
+      FlatClickerRpg_Kit_SpriteSheet_120: 1686049666
+      FlatClickerRpg_Kit_SpriteSheet_54: 1963500876
+      FlatClickerRpg_Kit_SpriteSheet_93: 668267501
+      FlatClickerRpg_Kit_SpriteSheet_56: 1047266664
+      FlatClickerRpg_Kit_SpriteSheet_43: -1482668971
+      FlatClickerRpg_Kit_SpriteSheet_70: -223716373
+      FlatClickerRpg_Kit_SpriteSheet_83: -2071147938
+      FlatClickerRpg_Kit_SpriteSheet_30: 449952179
+      FlatClickerRpg_Kit_SpriteSheet_95: -639612877
+      FlatClickerRpg_Kit_SpriteSheet_75: 712388251
+      FlatClickerRpg_Kit_SpriteSheet_4: -435888650
+      FlatClickerRpg_Kit_SpriteSheet_34: -121579661
+      FlatClickerRpg_Kit_SpriteSheet_77: -755163363
+      FlatClickerRpg_Kit_SpriteSheet_55: -1172289330
+      FlatClickerRpg_Kit_SpriteSheet_68: -82810537
+      FlatClickerRpg_Kit_SpriteSheet_78: 1627841324
+      FlatClickerRpg_Kit_SpriteSheet_29: 2133533978
+      FlatClickerRpg_Kit_SpriteSheet_102: -1584318088
+      FlatClickerRpg_Kit_SpriteSheet_98: 1178778840
+      FlatClickerRpg_Kit_SpriteSheet_90: -1302302346
+      FlatClickerRpg_Kit_SpriteSheet_20: -582841133
+      FlatClickerRpg_Kit_SpriteSheet_35: -2003830915
+      FlatClickerRpg_Kit_SpriteSheet_97: -1857270905
+      FlatClickerRpg_Kit_SpriteSheet_28: -916644673
+      FlatClickerRpg_Kit_SpriteSheet_101: -1634737339
+      FlatClickerRpg_Kit_SpriteSheet_87: -150676571
+      FlatClickerRpg_Kit_SpriteSheet_121: -1908272925
+      FlatClickerRpg_Kit_SpriteSheet_26: 2061582303
+      FlatClickerRpg_Kit_SpriteSheet_74: -283131819
+      FlatClickerRpg_Kit_SpriteSheet_21: -541436025
+      FlatClickerRpg_Kit_SpriteSheet_51: -1632265142
+      FlatClickerRpg_Kit_SpriteSheet_22: -893612715
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
